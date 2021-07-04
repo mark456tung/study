@@ -8,6 +8,10 @@
 * [好客租房](https://www.bilibili.com/video/BV1fN411f7T5?from=search&seid=14676102392514903447)
 * [flutter專案改名]
 * [一個方案提升Flutter記憶體利用率](https://www.gushiciku.cn/pl/pXEP/zh-tw)
+* chche
+  * [cache_manager](https://pub.dev/packages/flutter_cache_manager#-readme-tab-)
+  * [cached_network_image ](https://pub.dev/packages/cached_network_image)
+    * [image&provider](https://stackoverflow.com/questions/60752061/what-is-the-difference-between-cachednetworkimage-and-cachednetworkimageprovider)
 ## 大雜燴
  * [淺談Cookie、Session與Cache的區別](https://www.zendei.com/article/46662.html)
 
@@ -16,3 +20,7 @@
 
 ## investing
 * [Finlab](https://www.finlab.tw/%e8%82%a1%e7%a5%a8%e5%85%a5%e9%96%80%e6%87%b6%e4%ba%ba%e5%8c%85/)
+* [Mr.Market](https://rich01.com/mr-market-for-new/)
+
+## modern agriculcure
+* [水耕系統](https://www.bilibili.com/video/BV1Kp4y1z74T)

@@ -1,0 +1,10 @@
+# 2021.07.04
+[用本益比找出買賣點](https://statementdog.com/blog/archives/7149)
+[股價淨值比](https://www.cmoney.tw/notes/note-detail.aspx?nid=6355)
+[價值投資](https://www.cmoney.tw/notes/note-detail.aspx?nid=43380&utm_source=blog&utm_medium=post&utm_campaign=CMA_MB_ETA)
+[本益比能幫你選出優質股？](https://www.finlab.tw/%E6%9C%AC%E7%9B%8A%E6%AF%94%E8%83%BD%E5%B9%AB%E4%BD%A0%E9%81%B8%E5%87%BA%E5%84%AA%E8%B3%AA%E8%82%A1%EF%BC%9F/)
+[本益成長比](https://www.finlab.tw/%E6%AF%94%E6%9C%AC%E7%9B%8A%E6%AF%94%E6%9B%B4%E5%A5%BD%E7%94%A8%E7%9A%84%E6%9C%AC%E7%9B%8A%E6%AF%94%E6%88%90%E9%95%B7%E7%8E%87%EF%BC%81/)
+[絕無僅有的超強指標](https://www.finlab.tw/%E7%B5%95%E7%84%A1%E5%83%85%E6%9C%89%E7%9A%84%E8%B6%85%E5%BC%B7%E6%8C%87%E6%A8%99%EF%BC%81/)
+[三種看月營收的進階方法](https://www.finlab.tw/%E4%B8%89%E7%A8%AE%E6%9C%88%E7%87%9F%E6%94%B6%E9%80%B2%E9%9A%8E%E7%9C%8B%E6%B3%95/)
+[市值營收比](https://www.finlab.tw/%E5%B8%82%E5%80%BC%E7%87%9F%E6%94%B6%E6%AF%94/)
+[買股票只考慮ROE是不夠的！](https://www.finlab.tw/%E8%B2%B7%E8%82%A1%E7%A5%A8%E5%8F%AA%E8%80%83%E6%85%AEROE%E6%98%AF%E4%B8%8D%E5%A4%A0%E7%9A%84%EF%BC%81/)
